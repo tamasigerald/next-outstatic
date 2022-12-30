@@ -1,6 +1,6 @@
 ---
 title: 'Hello world!'
-status: 'draft'
+status: 'published'
 author:
   name: 'Gerald Andrei Tamasi'
   picture: 'https://avatars.githubusercontent.com/u/30319433?v=4'
